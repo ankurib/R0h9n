@@ -108,6 +108,7 @@ ua = random.choice([
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]",
 			"Opera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16';]",
 			"Mozilla/5.0 (Linux; Android 11; RMX2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36;]"
+			])
 #Chalo Heder Include Kr Leta Ha Thoda Sa 
 headers = {"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), 
 				"x-fb-sim-hni": str(random.randint(20000, 40000)), 
